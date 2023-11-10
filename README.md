@@ -1,16 +1,15 @@
-### Hi there 👋
+# J. Patrick Fulton
 
-<!--
-**jpfulton-lockboxai/jpfulton-lockboxai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:mailbox: <patrick@lockboxai.com> <br>
+:telephone_receiver: +1 (312) 989-6512
 
-Here are some ideas to get you started:
+## Contribution Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Contribution Statistics](./profile-3d-contrib/profile-green.svg)
+
+<p align="center">
+    <a href="https://github.com/jpfulton-lockboxai/jpfulton-lockboxai/graphs/contributors"><img src="https://img.shields.io/github/contributors/jpfulton-lockboxai/jpfulton-lockboxai?color=blue"></a>
+    <a href="https://github.com/jpfulton-lockboxai/jpfulton-lockboxai/stargazers"><img src="https://img.shields.io/github/stars/jpfulton-lockboxai/jpfulton-lockboxai.svg?logo=github"></a>
+    <a href="https://github.com/jpfulton-lockboxai/jpfulton-lockboxai/network/members"><img src="https://img.shields.io/github/forks/jpfulton-lockboxai/jpfulton-lockboxai.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=jpfulton-lockboxai.jpfulton-lockboxai" alt="visitors"/>
+</p>
